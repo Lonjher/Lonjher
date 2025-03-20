@@ -1,5 +1,5 @@
 # 💫 About Me:
-Universitas Annuqayah<br>Any Project<br>Love<br>Javascript
+Hello World, Motherfucker!
 
 
 ## 🌐 Socials:

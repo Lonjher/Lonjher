@@ -8,6 +8,19 @@
 <!-- Animated typing effect -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast;Problem+Solver&color=FFFFFF&center=true&width=500&height=50)
 
+class SoftwareDeveloper:
+    def __init__(self):
+        self.name = "Walid Lonjher"
+        self.title = "Full-Stack Developer"
+        self.passion = "Creating innovative digital solutions"
+        self.focus = ["Web Development", "Software Engineering", "Open-Source"]
+        self.location = "Morocco"
+    
+    def say_hello(self):
+        return "Hello World! 👋 I'm passionate about transforming ideas into functional, elegant software solutions."
+
+me = SoftwareDeveloper()
+
 <!-- GitHub Stats Cards -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lonjher&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="165"/>

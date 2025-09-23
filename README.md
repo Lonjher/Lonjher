@@ -6,9 +6,15 @@
 <!-- Cosmic Header -->
 <div align="center">
   
-# 🌌 Welcome to My Cosmic Development Universe
+# 🌌 Welcome to My Universe
 
 **✨ Full-Stack Developer | 🚀 Mobile App Developer | 🌠 Open Source Explorer**
+
+<div align="center">
+
+# ✨ Hello World, Motherfucker! ✨
+
+</div>
 
 <!-- Handwriting Style Typing Animation -->
 <div align="center">

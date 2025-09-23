@@ -16,7 +16,8 @@ Hello World, Motherfucker!
 ![](https://github-profile-trophy.vercel.app/?username=lonjher&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lonjher&limit=5&theme=dracula&combine_all_yearly_contributions=true)
